@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+}
+body {
+  color: rgba(255, 255, 255, 0.808);
+  background-color: rgb(53, 80, 4);
+  font-size: 2vw;
+}
+
+.titulo {
+  text-align: center;
+  margin: 2vw 10vw;
+  padding: 2vw;
+}
+
+.legume {
+  background-color: #01550fd5;
+  margin: 4vw 15vw 4vw 2vw;
+  padding: 2vw;
+}
+
+.fruta {
+  background-color: #01550fd5;
+  text-align: right;
+  margin: 4vw 2vw 4vw 15vw;
+}
+
+.tropical {
+  background-color: #01550fd5;
+  margin: 4vw 15vw 4vw 2vw;
+  padding: 2vw;
+}
+
+#legumeImg {
+  width: 60%;
+  height: auto;
+}
+#frutas_imagem {
+  width: 60%;
+  height: auto;
+}
+
+#tropicais_imagem {
+  width: 70%;
+  height: auto;
+}
+a {
+  color: white;
+}
+
+.referencias {
+  margin: 0vw 4vw;
+}
