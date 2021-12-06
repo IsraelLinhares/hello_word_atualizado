@@ -4,7 +4,8 @@
 body {
   color: rgba(255, 255, 255, 0.808);
   background-color: rgb(53, 80, 4);
-  font-size: 2vw;
+  font-size: 2.1vw;
+  min-height: 100vw;
 }
 
 .titulo {
@@ -23,6 +24,7 @@ body {
   background-color: #01550fd5;
   text-align: right;
   margin: 4vw 2vw 4vw 15vw;
+  padding: 3vw;
 }
 
 .tropical {
@@ -36,8 +38,9 @@ body {
   height: auto;
 }
 #frutas_imagem {
-  width: 60%;
+  width: 60vw;
   height: auto;
+  border-radius: 20%;
 }
 
 #tropicais_imagem {
